@@ -1,0 +1,123 @@
+{
+	"recipes": [
+	  {
+		"recipe_id": 1,
+		"recipe_name": "Chicken Stir Fry",
+		"recipe_image": "https://example.com/chicken-stir-fry.jpg",
+		"short_description": "A quick and delicious chicken stir fry with vegetables.",
+		"ingredients": [
+		  "550 g chicken",
+		  "120 ml soy sauce",
+		  "200 g basil leaf",
+		  "400 g mushroom"
+		],
+		"preparing_time": "30 min",
+		"calories": "320 calories"
+	  },
+	  {
+		"recipe_id": 2,
+		"recipe_name": "Vegetable Pasta",
+		"recipe_image": "https://example.com/vegetable-pasta.jpg",
+		"short_description": "Healthy vegetable pasta with a light sauce.",
+		"ingredients": [
+		  "300 g pasta",
+		  "150 g bell pepper",
+		  "100 g spinach",
+		  "50 ml olive oil"
+		],
+		"preparing_time": "25 min",
+		"calories": "280 calories"
+	  },
+	  {
+		"recipe_id": 3,
+		"recipe_name": "Beef Tacos",
+		"recipe_image": "https://example.com/beef-tacos.jpg",
+		"short_description": "Spicy beef tacos with fresh toppings.",
+		"ingredients": [
+		  "400 g ground beef",
+		  "100 g cheese",
+		  "150 g lettuce",
+		  "100 g tomato",
+		  "8 taco shells"
+		],
+		"preparing_time": "20 min",
+		"calories": "350 calories"
+	  },
+	  {
+		"recipe_id": 4,
+		"recipe_name": "Mango Smoothie",
+		"recipe_image": "https://example.com/mango-smoothie.jpg",
+		"short_description": "Refreshing mango smoothie perfect for summer.",
+		"ingredients": [
+		  "2 ripe mangoes",
+		  "250 ml milk",
+		  "2 tbsp honey",
+		  "100 g ice"
+		],
+		"preparing_time": "10 min",
+		"calories": "200 calories"
+	  },
+	  {
+		"recipe_id": 5,
+		"recipe_name": "Margherita Pizza",
+		"recipe_image": "https://example.com/margherita-pizza.jpg",
+		"short_description": "Classic margherita pizza with fresh basil.",
+		"ingredients": [
+		  "500 g pizza dough",
+		  "200 g mozzarella",
+		  "150 g tomato sauce",
+		  "Fresh basil leaves"
+		],
+		"preparing_time": "40 min",
+		"calories": "400 calories"
+	  },
+	  {
+		"recipe_id": 6,
+		"recipe_name": "Caesar Salad",
+		"recipe_image": "https://example.com/caesar-salad.jpg",
+		"short_description": "Crispy Caesar salad with homemade dressing.",
+		"ingredients": [
+		  "300 g romaine lettuce",
+		  "100 g croutons",
+		  "150 g chicken breast",
+		  "50 g parmesan cheese",
+		  "Caesar dressing"
+		],
+		"preparing_time": "15 min",
+		"calories": "250 calories"
+	  },
+	  {
+		"recipe_id": 7,
+		"recipe_name": "Chocolate Cake",
+		"recipe_image": "https://example.com/chocolate-cake.jpg",
+		"short_description": "Rich and moist chocolate cake.",
+		"ingredients": [
+		  "200 g flour",
+		  "150 g cocoa powder",
+		  "300 g sugar",
+		  "3 eggs",
+		  "200 ml milk",
+		  "100 g butter"
+		],
+		"preparing_time": "60 min",
+		"calories": "500 calories"
+	  },
+	  {
+		"recipe_id": 8,
+		"recipe_name": "Shrimp Pad Thai",
+		"recipe_image": "https://example.com/shrimp-pad-thai.jpg",
+		"short_description": "Authentic Thai-style shrimp Pad Thai.",
+		"ingredients": [
+		  "400 g rice noodles",
+		  "200 g shrimp",
+		  "100 g bean sprouts",
+		  "50 g peanuts",
+		  "2 eggs",
+		  "Pad Thai sauce"
+		],
+		"preparing_time": "35 min",
+		"calories": "370 calories"
+	  }
+	]
+  }
+  
