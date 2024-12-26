@@ -3,7 +3,7 @@
 	  {
 		"recipe_id": 1,
 		"recipe_name": "Chicken Stir Fry",
-		"recipe_image": "https://example.com/chicken-stir-fry.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/traditional-imam-bayildi-baking-pan_164638-9610.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "A quick and delicious chicken stir fry with vegetables.",
 		"ingredients": [
 		  "550 g chicken",
@@ -17,7 +17,7 @@
 	  {
 		"recipe_id": 2,
 		"recipe_name": "Vegetable Pasta",
-		"recipe_image": "https://example.com/vegetable-pasta.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/stuffed-peppers-with-rice-beans-pumpkin-mexican-style_2829-15485.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "Healthy vegetable pasta with a light sauce.",
 		"ingredients": [
 		  "300 g pasta",
@@ -31,14 +31,13 @@
 	  {
 		"recipe_id": 3,
 		"recipe_name": "Beef Tacos",
-		"recipe_image": "https://example.com/beef-tacos.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/vegetarian-dish-peppers-stuffed-with-quinoa-shrimp-vegetables-free-space-your-text_264437-2994.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "Spicy beef tacos with fresh toppings.",
 		"ingredients": [
 		  "400 g ground beef",
 		  "100 g cheese",
 		  "150 g lettuce",
-		  "100 g tomato",
-		  "8 taco shells"
+		  "100 g tomato"
 		],
 		"preparing_time": "20 min",
 		"calories": "350 calories"
@@ -46,7 +45,7 @@
 	  {
 		"recipe_id": 4,
 		"recipe_name": "Mango Smoothie",
-		"recipe_image": "https://example.com/mango-smoothie.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/fish-baked-tomato-zandvoort-clay-bowl-napkin-burlap-parsley-fork-background-wooden-boards_423299-1966.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "Refreshing mango smoothie perfect for summer.",
 		"ingredients": [
 		  "2 ripe mangoes",
@@ -60,7 +59,7 @@
 	  {
 		"recipe_id": 5,
 		"recipe_name": "Margherita Pizza",
-		"recipe_image": "https://example.com/margherita-pizza.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/cabbage-rolls-with-meat-rice-vegetables-stuffed-peking-cabbage-leaves-with-meat-tomato-sauce-black-plate-with-tomatoes-herbs-chow-farchi-dolma-sarma-cabbage-rolls-golabki_136344-1403.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "Classic margherita pizza with fresh basil.",
 		"ingredients": [
 		  "500 g pizza dough",
@@ -74,14 +73,13 @@
 	  {
 		"recipe_id": 6,
 		"recipe_name": "Caesar Salad",
-		"recipe_image": "https://example.com/caesar-salad.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/traditional-imam-bayildi-baking-pan_164638-9610.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "Crispy Caesar salad with homemade dressing.",
 		"ingredients": [
 		  "300 g romaine lettuce",
 		  "100 g croutons",
 		  "150 g chicken breast",
-		  "50 g parmesan cheese",
-		  "Caesar dressing"
+		  "50 g parmesan cheese"
 		],
 		"preparing_time": "15 min",
 		"calories": "250 calories"
@@ -89,15 +87,13 @@
 	  {
 		"recipe_id": 7,
 		"recipe_name": "Chocolate Cake",
-		"recipe_image": "https://example.com/chocolate-cake.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/traditional-imam-bayildi-baking-pan_164638-9610.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "Rich and moist chocolate cake.",
 		"ingredients": [
 		  "200 g flour",
 		  "150 g cocoa powder",
 		  "300 g sugar",
-		  "3 eggs",
-		  "200 ml milk",
-		  "100 g butter"
+		  "3 eggs"
 		],
 		"preparing_time": "60 min",
 		"calories": "500 calories"
@@ -105,15 +101,13 @@
 	  {
 		"recipe_id": 8,
 		"recipe_name": "Shrimp Pad Thai",
-		"recipe_image": "https://example.com/shrimp-pad-thai.jpg",
+		"recipe_image": "https://img.freepik.com/premium-photo/traditional-imam-bayildi-baking-pan_164638-9610.jpg?uid=R92800029&ga=GA1.1.474055685.1723291341&semt=ais_hybrid",
 		"short_description": "Authentic Thai-style shrimp Pad Thai.",
 		"ingredients": [
 		  "400 g rice noodles",
 		  "200 g shrimp",
 		  "100 g bean sprouts",
-		  "50 g peanuts",
-		  "2 eggs",
-		  "Pad Thai sauce"
+		  "50 g peanuts"
 		],
 		"preparing_time": "35 min",
 		"calories": "370 calories"

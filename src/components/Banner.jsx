@@ -1,6 +1,6 @@
 const Banner = () => {
 	return (
-	  <section className="relative container mx-auto my-8 bg-cover bg-center h-[400px] flex items-center justify-center text-center rounded-lg overflow-hidden" 
+	  <section className="relative container mx-auto my-8 bg-cover bg-center h-[450px] flex items-center justify-center text-center rounded-lg overflow-hidden" 
 		style={{
 		  backgroundImage: `url('https://media.istockphoto.com/id/1158191308/photo/teamwork-in-the-kitchen.jpg?s=612x612&w=0&k=20&c=jt4ZeHJGLsMD4EoBX9PMIIWc7jmi5SJbhWF0hrDxRio=')`,
 		}}>
