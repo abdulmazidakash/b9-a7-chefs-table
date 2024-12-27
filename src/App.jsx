@@ -5,6 +5,7 @@ import OurRecipes from "./components/OurRecipes"
 import Recipes from "./components/Recipes"
 import Sidebar from "./components/Sidebar"
 import toast from "react-hot-toast"
+import Footer from "./components/Footer"
 
 
 
@@ -46,8 +47,9 @@ const calculateTimeAndCalories = (time, calorie) =>{
   return (
     <>
 
+<Headers></Headers>
     <div className="container mx-auto px-4">
-    <Headers></Headers>
+  
       <Banner></Banner>
       <OurRecipes></OurRecipes>
       <section className="flex flex-col md:flex-row gap-6 container mx-auto">
@@ -63,7 +65,7 @@ const calculateTimeAndCalories = (time, calorie) =>{
         ></Sidebar>
       </section>
     </div>
-     
+     <Footer></Footer>
     </>
   )
 }

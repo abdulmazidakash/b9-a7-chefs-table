@@ -1,3 +1,5 @@
+import { Typewriter } from "react-simple-typewriter";
+
 const Banner = () => {
 	return (
 	  <section className="relative container mx-auto my-8 bg-cover bg-center h-[450px] flex items-center justify-center text-center rounded-lg overflow-hidden" 
@@ -11,7 +13,18 @@ const Banner = () => {
 		<div className="relative z-10 text-white px-6">
 		  <div className="w-7/12 mx-auto">
 		  <h1 className="text-3xl md:text-4xl font-bold mb-4">
-			Discover an exceptional cooking class tailored for you!
+			<Typewriter
+			words={['Discover an exceptional cooking class tailored for you!']}
+			typeSpeed={70}
+			delaySpeed={1000}
+			deleteSpeed={50}
+			loop={Infinity}
+			cursorStyle={'|'}
+			cursor
+			
+			>
+
+			</Typewriter>
 		  </h1>
 		  <p className="mb-6 text-sm md:text-lg">
 			Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.

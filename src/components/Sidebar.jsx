@@ -2,7 +2,7 @@ import React from 'react';
 
 const Sidebar = ({recipeQue, handleDelete, preparedRecipe, calculateTimeAndCalories, totalTime, totalCalories}) => {
 	return (
-		<div className='w-1/3 border-2 rounded-lg'>
+		<div className='md:w-1/3 border-2 rounded-lg'>
 			{/* want to cook table  */}
 			<div className="overflow-x-auto">
 				<h2 className='border-b-2 text-center font-semibold text-2xl text-gray-800 p-4'>Want To Cook: {recipeQue.length}</h2>
