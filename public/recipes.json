@@ -11,7 +11,7 @@
 		  "200 g basil leaf",
 		  "400 g mushroom"
 		],
-		"preparing_time": "30 min",
+		"preparing_time": 30,
 		"calories": "320 calories"
 	  },
 	  {
@@ -25,7 +25,7 @@
 		  "100 g spinach",
 		  "50 ml olive oil"
 		],
-		"preparing_time": "25 min",
+		"preparing_time": 25,
 		"calories": "280 calories"
 	  },
 	  {
@@ -39,7 +39,7 @@
 		  "150 g lettuce",
 		  "100 g tomato"
 		],
-		"preparing_time": "20 min",
+		"preparing_time": 20,
 		"calories": "350 calories"
 	  },
 	  {
@@ -53,7 +53,7 @@
 		  "2 tbsp honey",
 		  "100 g ice"
 		],
-		"preparing_time": "10 min",
+		"preparing_time": 10,
 		"calories": "200 calories"
 	  },
 	  {
@@ -67,7 +67,7 @@
 		  "150 g tomato sauce",
 		  "Fresh basil leaves"
 		],
-		"preparing_time": "40 min",
+		"preparing_time": 40,
 		"calories": "400 calories"
 	  },
 	  {
@@ -81,7 +81,7 @@
 		  "150 g chicken breast",
 		  "50 g parmesan cheese"
 		],
-		"preparing_time": "15 min",
+		"preparing_time": 15,
 		"calories": "250 calories"
 	  },
 	  {
@@ -95,7 +95,7 @@
 		  "300 g sugar",
 		  "3 eggs"
 		],
-		"preparing_time": "60 min",
+		"preparing_time": 60,
 		"calories": "500 calories"
 	  },
 	  {
@@ -109,7 +109,7 @@
 		  "100 g bean sprouts",
 		  "50 g peanuts"
 		],
-		"preparing_time": "35 min",
+		"preparing_time": 35,
 		"calories": "370 calories"
 	  }
 	]

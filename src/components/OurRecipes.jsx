@@ -2,7 +2,7 @@ import { FaUtensils } from "react-icons/fa";
 
 const OurRecipes = () => {
   return (
-    <section className="py-12 bg-gray-50 text-center">
+    <section className="py-12 bg-gray-50 text-center mb-8 rounded-lg">
       <div className="container mx-auto">
         {/* Icon */}
         <div className="flex justify-center mb-4">
